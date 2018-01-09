@@ -3,7 +3,7 @@ clear
 
 sudo apt-get update
 
-sudo locale-gen en_US.UTF-8
+sudo locale-gen el_GR.UTF-8
 
 sudo apt-get upgrade -yqq
 
