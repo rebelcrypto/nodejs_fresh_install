@@ -31,6 +31,6 @@ npm i pm2@latest -g
 
 npm list -g --depth=0
 
-rm install.sh
-
 sudo apt-get install nginx -yqq
+
+rm install.sh
