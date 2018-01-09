@@ -1,8 +1,10 @@
-# Node js building tools
+# Node js fresh install
 
-Login in new server with ssh and run commants below
+========================
+estimated time 4 minutes
+========================
 
-The script included:
+__The script included:__
 
   * Update your [Ubuntu](https://www.ubuntu.com/) / [Debian](https://www.debian.org/) server
   * Fix common error with locale
@@ -16,6 +18,10 @@ The script included:
   * Check all npm packages
   * Install [nginx](https://www.nginx.com)
   * Delete the installation script
+
+
+
+Login in new server with ssh and run commants below
 
 
 Download installation script
