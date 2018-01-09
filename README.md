@@ -1,7 +1,9 @@
 # Node js fresh install
 
 ========================
+
 estimated time 4 minutes
+
 ========================
 
 __The script included:__
