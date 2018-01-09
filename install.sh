@@ -21,7 +21,11 @@ npm i n@latest -g
 
 n lts
 
-npm i npm-check-updates@latest
+node -v
+
+npm i npm-check-updates@latest -g
+
+npm i pm2@latest -g
 
 npm list -g --depth=0
 
