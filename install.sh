@@ -3,6 +3,8 @@ clear
 
 sudo apt-get update
 
+sudo locale-gen el_GR.UTF-8
+
 sudo apt-get upgrade -yqq
 
 sudo apt-get dist-upgrade -yqq
