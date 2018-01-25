@@ -19,17 +19,17 @@ npm i npm@latest -g
 
 npm -v
 
-npm i n@latest -g
+npm i yarn@latest -g
+
+yarn global add n
 
 n lts
 
 node -v
 
-npm i npm-check-updates@latest -g
+yarn global add pm2
 
-npm i pm2@latest -g
-
-npm list -g --depth=0
+yarn global list
 
 sudo apt-get install nginx -yqq
 
