@@ -16,9 +16,7 @@ __The script included:__
   * Install [yarn](https://yarnpkg.com/lang/en/) package manager
   * Install [n package](https://github.com/tj/n) nodejs version manager
   * Install with n package the latest lts version of nodejs
-  * Install [npm-check-updates](https://github.com/tjunnone/npm-check-updates)
   * Install [pm2 package](https://github.com/Unitech/pm2)
-  * Check all npm packages
   * Install [nginx](https://www.nginx.com)
   * Delete the installation script
 
