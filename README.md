@@ -13,6 +13,7 @@ __The script included:__
   * Remove and delete unused packages
   * Install nodejs package manager [npm](https://github.com/npm/npm)
   * Update npm to latest version
+  * Install [yarn](https://yarnpkg.com/lang/en/) package manager
   * Install [n package](https://github.com/tj/n) nodejs version manager
   * Install with n package the latest lts version of nodejs
   * Install [npm-check-updates](https://github.com/tjunnone/npm-check-updates)
