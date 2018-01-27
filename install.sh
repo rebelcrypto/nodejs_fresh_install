@@ -13,13 +13,13 @@ sudo apt autoremove -y
 
 sudo apt autoclean
 
-sudo apt-get install npm -y
+curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
 
-npm i npm@latest -g
+echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
 
-npm -v
+sudo apt-get update && sudo apt-get install yarn -yqq
 
-npm i yarn@latest -g
+yarn -v
 
 yarn global add n
 
